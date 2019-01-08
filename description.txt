@@ -1,0 +1,1 @@
+"The data I pulled shows all expenditures in the Utilities category greater than $100. There are 2,143 utility expenditures greater than $100, ranging from exactly $100 to a maximum expenditure of $28,490. This large expense was for communications equipment, and the payee was the Mineral Gap Data Center."
