@@ -1,0 +1,177 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         378
+	Longest value:         7 characters
+	Most common values:    None (59x)
+	                       C001061 (26x)
+	                       P000605 (21x)
+	                       F000454 (19x)
+	                       J000295 (18x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         387
+	Longest value:         35 characters
+	Most common values:    HON. EMANUEL CLEAVER (26x)
+	                       HON. SCOTT PERRY (21x)
+	                       HON. BILL FOSTER (19x)
+	                       HON. DAVID P. JOYCE (18x)
+	                       HON. FRANK PALLONE  JR. (18x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (2143x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         10
+	Longest value:         30 characters
+	Most common values:    OFFICIAL EXPENSES OF MEMBERS (2084x)
+	                       CAMPUS VOICE NETWORK ENHANCE (16x)
+	                       COMMUNICATIONS (12x)
+	                       COMMUNICATIONS EQUIPMENT (10x)
+	                       LIBRARY OF CONGRESS MAILREIMB (6x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         30 characters
+	Most common values:    RENT  COMMUNICATION  UTILITIES (2143x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         73
+	Smallest value:        2017-01-03
+	Largest value:         2017-03-31
+	Most common values:    2017-03-21 (132x)
+	                       2017-01-19 (131x)
+	                       2017-02-17 (122x)
+	                       2017-02-02 (57x)
+	                       2017-01-05 (52x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         2 characters
+	Most common values:    AP (2143x)
+
+  8. "RECORDID"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1826
+	Longest value:         8 characters
+	Most common values:    900647 (107x)
+	                       912200 (103x)
+	                       904174 (98x)
+	                       E0483153 (3x)
+	                       902579 (2x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         333
+	Longest value:         40 characters
+	Most common values:    COMCAST (399x)
+	                       TIME WARNER CABLE (231x)
+	                       CHARTER COMMUNICATIONS (112x)
+	                       CABLE ONE INC (42x)
+	                       COX COMMUNICATIONS (38x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         193
+	Smallest value:        2015-03-01
+	Largest value:         2017-04-01
+	Most common values:    2017-01-03 (129x)
+	                       2016-11-29 (118x)
+	                       2017-01-29 (111x)
+	                       2017-02-01 (52x)
+	                       2017-03-01 (51x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         204
+	Smallest value:        2015-03-28
+	Largest value:         2018-02-21
+	Most common values:    2017-02-28 (173x)
+	                       2016-12-28 (117x)
+	                       2017-01-28 (82x)
+	                       2017-01-02 (76x)
+	                       2017-01-31 (60x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         9 characters
+	Most common values:    UTILITIES (2143x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         1766
+	Smallest value:        100.03
+	Largest value:         28490
+	Sum:                   844963.81
+	Mean:                  394.290159
+	Median:                216.64
+	StDev:                 1369.755569
+	Most common values:    165.36 (10x)
+	                       145.75 (6x)
+	                       205.86 (5x)
+	                       109.83 (5x)
+	                       15500 (4x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         4
+	Smallest value:        2015
+	Largest value:         2018
+	Sum:                   4322074
+	Mean:                  2016.833411
+	Median:                2017
+	StDev:                 0.385018
+	Most common values:    2017 (1772x)
+	                       2016 (361x)
+	                       2018 (8x)
+	                       2015 (2x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         333
+	Longest value:         40 characters
+	Most common values:    COMCAST (399x)
+	                       TIME WARNER CABLE (231x)
+	                       CHARTER COMMUNICATIONS (112x)
+	                       CABLE ONE INC (42x)
+	                       COX COMMUNICATIONS (38x)
+
+Row count: 2143
