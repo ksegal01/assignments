@@ -13,3 +13,8 @@ function add (a,b){
 function subtract (a,b){
 	return a - b //this last function subtracts b from a
 }
+
+console.log ("Now I will use this calculator to multiply 7 and 7")
+var x = multiply(7,7)
+console.log(x)
+
