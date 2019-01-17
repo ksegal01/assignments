@@ -25,6 +25,7 @@ pprint(vegetables_by_color)
 with open ('vegetables_by_color.json', 'w') as f:
 	json.dump(vegetables_by_color, f, indent=2)
 
+#BONUS!
 vegetables_by_color_count = {}
 for vegetable in vegetables:
     color = vegetable['color']
