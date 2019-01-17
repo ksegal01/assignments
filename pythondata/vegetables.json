@@ -1,0 +1,32 @@
+[
+  {
+    "name": "eggplant",
+    "color": "purple",
+    "length_of_name": "8"
+  },
+  {
+    "name": "cauliflower",
+    "color": "white",
+    "length_of_name": "11"
+  },
+  {
+    "name": "corn",
+    "color": "yellow",
+    "length_of_name": "4"
+  },
+  {
+    "name": "okra",
+    "color": "green",
+    "length_of_name": "4"
+  },
+  {
+    "name": "arugula",
+    "color": "green",
+    "length_of_name": "7"
+  },
+  {
+    "name": "broccoli",
+    "color": "green",
+    "length_of_name": "8"
+  }
+]
