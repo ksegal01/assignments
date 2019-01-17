@@ -21,3 +21,7 @@ pprint(green_veggies)
 # Write the veggies to a json file called greenveggies.json
 with open ('greenveggies.json', 'w') as f:
 	json.dump(green_veggies, f, indent=2)
+with open ('green_vegetables.csv', 'w') as f:
+	writer=csv.writer(f)
+	writer.writerow(['name', 'color'])
+	writer.writerow([green_veggies])
