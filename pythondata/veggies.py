@@ -21,4 +21,4 @@ with open('vegetables.csv', 'w') as f:
 		name = vegetable['name']
 		color = vegetable['color']
 		length_of_name = len(vegetable['name'])
-		writer.writerow([name,color])
+		writer.writerow([name,color, length_of_name])
